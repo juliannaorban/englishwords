@@ -2,5 +2,9 @@
     {
         "title": "Szavak - 1",
         "resourceFile": "szavak-1.json"
+    },
+    {
+        "title": "Szavak - 2",
+        "resourceFile": "szavak-2.json"
     }
 ]
