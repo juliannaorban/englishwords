@@ -1,4 +1,4 @@
-{"english":"supposedly", "hungarian": "feltehetőleg"},
+[{"english":"supposedly", "hungarian": "feltehetőleg"},
 {"english":"upright", "hungarian": "függőleges"},
 {"english":"to aim to", "hungarian": "törekedni valamire"},
 {"english":"to cram in", "hungarian": "bezsúfolni"},
@@ -91,4 +91,4 @@
 {"english":"to be unlikely to do sth", "hungarian": "nem valószínű hogy csinálni fog valamit"},
 {"english":"handsome", "hungarian": "jóképű"},
 {"english":"to grow grey", "hungarian": "őszül"},
-{"english":"to grow a beard", "hungarian": "szakállat növeszt"},
+{"english":"to grow a beard", "hungarian": "szakállat növeszt"}]
